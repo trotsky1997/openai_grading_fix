@@ -1,5 +1,8 @@
 # OpenAI grading fix
 
+Fix \frac bugs of OpenAI grading
+
+
 ## Usage
 
 ```
